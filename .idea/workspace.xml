@@ -65,7 +65,20 @@
       <recent name="D:\users\wsw\ideaProj\designpattern\src\main\java\com\wsw\factory\factorymethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Custemor">
+  <component name="RunManager" selected="Application.Consumer">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wsw.factory.abstractfactory.Consumer" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsw.factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Custemor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wsw.factory.factorymethod.Custemor" />
       <module name="designpattern" />
@@ -94,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Consumer" />
         <item itemvalue="Application.Custemor" />
         <item itemvalue="Application.Factory" />
       </list>
@@ -109,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593410292087</updated>
-      <workItem from="1593410299174" duration="4401000" />
+      <workItem from="1593410299174" duration="8082000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂">
       <created>1593416851854</created>
@@ -118,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593416851854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="工厂方法">
+      <created>1593418725822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593418725822</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,36 +147,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="简单工厂" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单工厂" />
+    <MESSAGE value="工厂方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂方法" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1593417613750">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1593422300597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593417613750" />
-    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1593416850658">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593422300597" />
+    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1593418724574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593416850658" />
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1593417709084">
+    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593418724574" />
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom" timestamp="1593422430490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
-    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1593417709084">
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593422430490" />
+    <state width="1493" height="271" key="GridCell.Tab.0.center" timestamp="1593422430489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
-    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1593417709084">
+    <state width="1493" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593422430489" />
+    <state width="1493" height="271" key="GridCell.Tab.0.left" timestamp="1593422430489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
-    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1593417709084">
+    <state width="1493" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593422430489" />
+    <state width="1493" height="271" key="GridCell.Tab.0.right" timestamp="1593422430489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593416862843">
+    <state width="1493" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593422430489" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593418993159">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593416862843" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593418993159" />
   </component>
 </project>
