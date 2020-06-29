@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05c44e5f-e046-4b7a-be48-b284473b5b76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="TestWswGithub &lt;sww_ang@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -49,13 +54,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Java/jdk1.8.0_131/bin/jvisualvm.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wsw/factory/factorymethod" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\users\wsw\ideaProj\designpattern\src\main\java\com\wsw\factory\factorymethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Custemor">
+    <configuration name="Custemor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wsw.factory.factorymethod.Custemor" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsw.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wsw.factory.simplefactory.Factory" />
       <module name="designpattern" />
@@ -71,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Custemor" />
         <item itemvalue="Application.Factory" />
       </list>
     </recent_temporary>
@@ -85,29 +109,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593410292087</updated>
-      <workItem from="1593410299174" duration="2793000" />
+      <workItem from="1593410299174" duration="4401000" />
     </task>
+    <task id="LOCAL-00001" summary="简单工厂">
+      <created>1593416851854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593416851854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="简单工厂" />
+    <option name="LAST_COMMIT_MESSAGE" value="简单工厂" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1593416706686">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1593417613750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593416706686" />
-    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1593416706685">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593417613750" />
+    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1593416850658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593416706685" />
-    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1593416706685">
+    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593416850658" />
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1593417709084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593416706685" />
-    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1593416706686">
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
+    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1593417709084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593416706686" />
+    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
+    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1593417709084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
+    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1593417709084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593417709084" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593416862843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593416862843" />
   </component>
 </project>
